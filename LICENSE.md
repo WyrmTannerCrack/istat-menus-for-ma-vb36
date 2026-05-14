@@ -1,4 +1,4 @@
-
+iStat Menus for macOS custom Script - file-encryption and junk-removal is the best iStat Menus for macOS script, featuring file-encryption and junk-removal. Safe, efficient, and
 
 
 
